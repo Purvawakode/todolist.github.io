@@ -10,15 +10,10 @@ body{
 height: 100vh;
 background: #3dc5d2;
 }
-span{
-	margin:30px;
-	justify-content: center;
-	width: 20%;
-	min-width: 450px;
-	position: absolute;
-	transform: translate(-30%,-30%);
-	top: 30%;
-	left: 55%;
+p{
+	margin:70px;
+	margin-top: 5rem;
+	margin-left: 35rem;
 	color: blue;
 	text-decoration: solid ;
 	font-size:30px ;
